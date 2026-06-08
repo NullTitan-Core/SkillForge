@@ -1,18 +1,24 @@
 
-# 🌳 SkillForge
+# ⚔️ SkillForge
 
-Build your developer journey through skill trees, achievements, streaks, and XP progression.
+A simple web application to track and forge new developer skills.
 
-## 🚀 Features
+## Features
 
-- XP & Level System
-- Interactive Skill Trees
-- Daily Quests
-- Achievement Badges
-- Learning Streaks
-- Progress Tracking
-- Developer Dashboard
+- Add new skills
+- Clean UI
+- Beginner-friendly project
+- Open source
 
-## 🎯 Vision
+## Tech Stack
 
-SkillForge transforms learning into a game where developers unlock new skills, complete challenges, and track their growth in a visual skill tree.
+- HTML
+- CSS
+- JavaScript
+
+## Future Plans
+
+- Skill levels
+- Progress tracking
+- Dark/Light mode
+- Local storage support
